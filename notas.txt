@@ -1,0 +1,11 @@
+Importar>projects from folder
+
+source>format
+
+open type hierarchy
+
+refactor>extract method
+
+refactor>push down //para coger los metodos o lo que sea que tienes dentro y lo pases a las herencias que tiene 
+
+generate javadoc, el comando es el javadoc.exe, esto esta en los archivos del programa, java, jdk y ahi buscar el javadoc.exe
